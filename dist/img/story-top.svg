@@ -1,0 +1,54 @@
+<svg width="140" height="140" xmlns="http://www.w3.org/2000/svg">
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <path transform="rotate(-25 105.633 44.2655)" stroke="#000" id="svg_2" d="m135.28014,44.80979" opacity="NaN" fill="#fff"/>
+  <g transform="rotate(50 35.8798 96.1581)" stroke="null">
+   <g stroke="null" id="svg_12"/>
+   <g stroke="null" id="svg_11"/>
+   <g stroke="null" id="svg_7">
+    <g stroke="null" id="svg_9">
+     <path stroke="null" d="m36.17049,66.31787c-15.86212,-0.16796 -28.85022,13.0546 -29.01227,29.53661c-0.1605,16.4796 12.56793,29.97636 28.43005,30.14393c15.86289,0.16836 28.85292,-13.05741 29.01304,-29.53782c0.16243,-16.48081 -12.56832,-29.97676 -28.43082,-30.14272l0,0z" fill="url(#svg_10)"/>
+    </g>
+    <g stroke="null" id="svg_8">
+     <path stroke="null" d="m28.16457,76.25614c-1.2223,4.42716 1.24352,9.04634 5.50305,10.31428c4.26107,1.27075 8.70542,-1.28959 9.9281,-5.71755c1.22114,-4.42596 -1.24236,-9.04394 -5.50305,-10.31348c-4.26069,-1.26994 -8.70773,1.29039 -9.9281,5.71675l0,0z" fill="#FFFFFF"/>
+    </g>
+   </g>
+   <g stroke="null" id="svg_6"/>
+  </g>
+  <g transform="rotate(-25 100.401 45.5369)" stroke="null">
+   <g stroke="null" id="svg_19"/>
+   <g stroke="null" id="svg_18"/>
+   <g stroke="null" id="svg_14">
+    <g stroke="null" id="svg_16">
+     <path stroke="null" d="m100.70073,15.00162c-16.34576,-0.17187 -29.72987,13.35864 -29.89686,30.2245c-0.1654,16.8634 12.95113,30.6745 29.29689,30.84596c16.34656,0.17228 29.73265,-13.36151 29.89765,-30.22573c0.16739,-16.86463 -12.95153,-30.67491 -29.29769,-30.84473l0,0z" fill="url(#svg_17)"/>
+    </g>
+    <g stroke="null" id="svg_15">
+     <path stroke="null" d="m92.45071,25.17135c-1.25957,4.53027 1.28144,9.25703 5.67084,10.5545c4.391,1.30034 8.97085,-1.31962 10.23081,-5.85071c1.25838,-4.52904 -1.28024,-9.25457 -5.67084,-10.55368c-4.3906,-1.29952 -8.97323,1.32044 -10.23081,5.84989l0,0z" fill="#FFFFFF"/>
+    </g>
+   </g>
+   <g stroke="null" id="svg_13"/>
+  </g>
+ </g>
+ <defs>
+  <linearGradient gradientTransform="matrix(0.0039354353211820126,-0.40082600712776184,0.3857883810997009,0.004088836256414652,-384.2285461425781,481.34039306640625)" y2="1159.6104" x2="1047.2471" y1="1159.6104" x1="898.3535" gradientUnits="userSpaceOnUse" id="svg_10">
+   <stop stop-color="#F5F8E2" offset="0"/>
+   <stop stop-color="#F4C0D7" offset="0.2205"/>
+   <stop stop-color="#E0B9D4" offset="0.3082"/>
+   <stop stop-color="#BEAECF" offset="0.4792"/>
+   <stop stop-color="#BAB1D0" offset="0.5041"/>
+   <stop stop-color="#9CC1D5" offset="0.6961"/>
+   <stop stop-color="#8AC9D8" offset="0.8586"/>
+   <stop stop-color="#83CCD9" offset="0.971"/>
+  </linearGradient>
+  <linearGradient gradientTransform="matrix(0.004055427853018045,-0.4101608097553253,0.39755141735076904,0.004184061195701361,-396.58001708984375,439.6896667480469)" y2="1159.6104" x2="1047.2471" y1="1159.6104" x1="898.3535" gradientUnits="userSpaceOnUse" id="svg_17">
+   <stop stop-color="#F5F8E2" offset="0"/>
+   <stop stop-color="#F4C0D7" offset="0.2205"/>
+   <stop stop-color="#E0B9D4" offset="0.3082"/>
+   <stop stop-color="#BEAECF" offset="0.4792"/>
+   <stop stop-color="#BAB1D0" offset="0.5041"/>
+   <stop stop-color="#9CC1D5" offset="0.6961"/>
+   <stop stop-color="#8AC9D8" offset="0.8586"/>
+   <stop stop-color="#83CCD9" offset="0.971"/>
+  </linearGradient>
+ </defs>
+</svg>

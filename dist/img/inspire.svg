@@ -1,0 +1,123 @@
+<svg width="700" height="500" xmlns="http://www.w3.org/2000/svg">
+ <title>insipre.svg</title>
+ <defs>
+  <linearGradient gradientTransform="matrix(0.00623545004054904,-0.6109977960586548,0.6112574338912964,0.006232809275388718,-259.4083762168884,944.61106300354)" y2="1159.6104" x2="1047.2471" y1="1159.6104" x1="898.3535" gradientUnits="userSpaceOnUse" id="svg_5">
+   <stop stop-color="#F5F8E2" offset="0"/>
+   <stop stop-color="#F4C0D7" offset="0.2205"/>
+   <stop stop-color="#E0B9D4" offset="0.3082"/>
+   <stop stop-color="#BEAECF" offset="0.4792"/>
+   <stop stop-color="#BAB1D0" offset="0.5041"/>
+   <stop stop-color="#9CC1D5" offset="0.6961"/>
+   <stop stop-color="#8AC9D8" offset="0.8586"/>
+   <stop stop-color="#83CCD9" offset="0.971"/>
+  </linearGradient>
+  <linearGradient gradientTransform="matrix(0.0064158011227846146,-0.6109977960586548,0.6289369463920593,0.006232809275388718,-426.98516845703125,844.105712890625)" y2="1159.6104" x2="1047.2471" y1="1159.6104" x1="898.3535" gradientUnits="userSpaceOnUse" id="svg_12">
+   <stop stop-color="#F5F8E2" offset="0"/>
+   <stop stop-color="#F4C0D7" offset="0.2205"/>
+   <stop stop-color="#E0B9D4" offset="0.3082"/>
+   <stop stop-color="#BEAECF" offset="0.4792"/>
+   <stop stop-color="#BAB1D0" offset="0.5041"/>
+   <stop stop-color="#9CC1D5" offset="0.6961"/>
+   <stop stop-color="#8AC9D8" offset="0.8586"/>
+   <stop stop-color="#83CCD9" offset="0.971"/>
+  </linearGradient>
+  <linearGradient gradientTransform="matrix(0.006050432100892067,-0.6109977960586548,0.5931205749511719,0.006232809275388718,-622.1808878183365,651.9741821289062)" y2="1159.6104" x2="1047.2471" y1="1159.6104" x1="898.3535" gradientUnits="userSpaceOnUse" id="svg_19">
+   <stop stop-color="#F5F8E2" offset="0"/>
+   <stop stop-color="#F4C0D7" offset="0.2205"/>
+   <stop stop-color="#E0B9D4" offset="0.3082"/>
+   <stop stop-color="#BEAECF" offset="0.4792"/>
+   <stop stop-color="#BAB1D0" offset="0.5041"/>
+   <stop stop-color="#9CC1D5" offset="0.6961"/>
+   <stop stop-color="#8AC9D8" offset="0.8586"/>
+   <stop stop-color="#83CCD9" offset="0.971"/>
+  </linearGradient>
+  <linearGradient gradientTransform="matrix(0.0062839072197675705,-0.6109977960586548,0.6160074472427368,0.006232809275388718,-114.30471539497375,1034.9954833984375)" y2="1159.6104" x2="1047.2471" y1="1159.6104" x1="898.3535" gradientUnits="userSpaceOnUse" id="svg_26">
+   <stop stop-color="#F5F8E2" offset="0"/>
+   <stop stop-color="#F4C0D7" offset="0.2205"/>
+   <stop stop-color="#E0B9D4" offset="0.3082"/>
+   <stop stop-color="#BEAECF" offset="0.4792"/>
+   <stop stop-color="#BAB1D0" offset="0.5041"/>
+   <stop stop-color="#9CC1D5" offset="0.6961"/>
+   <stop stop-color="#8AC9D8" offset="0.8586"/>
+   <stop stop-color="#83CCD9" offset="0.971"/>
+  </linearGradient>
+  <linearGradient gradientTransform="matrix(0.006233117077499628,-0.6109977960586548,0.6110288500785828,0.006232809275388718,-533.3705234527588,747.151611328125)" y2="1159.6104" x2="1047.2471" y1="1159.6104" x1="898.3535" gradientUnits="userSpaceOnUse" id="svg_33">
+   <stop stop-color="#F5F8E2" offset="0"/>
+   <stop stop-color="#F4C0D7" offset="0.2205"/>
+   <stop stop-color="#E0B9D4" offset="0.3082"/>
+   <stop stop-color="#BEAECF" offset="0.4792"/>
+   <stop stop-color="#BAB1D0" offset="0.5041"/>
+   <stop stop-color="#9CC1D5" offset="0.6961"/>
+   <stop stop-color="#8AC9D8" offset="0.8586"/>
+   <stop stop-color="#83CCD9" offset="0.971"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <g transform="rotate(-114 455.477 357.46)" stroke="null">
+   <g stroke="null" id="svg_7"/>
+   <g stroke="null" id="svg_6"/>
+   <g stroke="null" id="svg_2">
+    <g stroke="null" id="svg_4">
+     <path stroke="null" d="m455.93786,311.97278c-25.13252,-0.25603 -45.71133,19.89975 -45.96809,45.02406c-0.25431,25.12064 19.91309,45.6944 45.04561,45.94982c25.13375,0.25664 45.71561,-19.90403 45.96931,-45.0259c0.25737,-25.12248 -19.9137,-45.69501 -45.04683,-45.94798l0,0z" fill="url(#svg_5)"/>
+    </g>
+    <g stroke="null" id="svg_3">
+     <path stroke="null" d="m443.25301,327.12215c-1.93666,6.74854 1.97028,13.78977 8.71923,15.72255c6.7514,1.93706 13.79318,-1.96578 15.73045,-8.71554c1.93482,-6.7467 -1.96845,-13.78611 -8.71923,-15.72133c-6.75079,-1.93584 -13.79685,1.967 -15.73045,8.71432l0,0z" fill="#FFFFFF"/>
+    </g>
+   </g>
+   <g stroke="null" id="svg_1"/>
+  </g>
+  <g stroke="null">
+   <g transform="rotate(180 617.155 513.908)" stroke="null" id="svg_14"/>
+   <g transform="rotate(180 617.155 513.908)" stroke="null" id="svg_13"/>
+   <g transform="rotate(180 308.577 256.954)" stroke="null" id="svg_9">
+    <g stroke="null" id="svg_11">
+     <path stroke="null" d="m309.05141,211.46717c-25.85945,-0.25603 -47.03347,19.89975 -47.29765,45.02406c-0.26166,25.12064 20.48904,45.6944 46.34849,45.94982c25.8607,0.25664 47.03787,-19.90403 47.29891,-45.0259c0.26481,-25.12248 -20.48967,-45.69501 -46.34975,-45.94798l0,0z" fill="url(#svg_12)"/>
+    </g>
+    <g stroke="null" id="svg_10">
+     <path stroke="null" d="m295.99966,226.61655c-1.99267,6.74854 2.02727,13.78977 8.97143,15.72255c6.94668,1.93706 14.19213,-1.96578 16.18543,-8.71554c1.99078,-6.7467 -2.02538,-13.78611 -8.97143,-15.72133c-6.94605,-1.93584 -14.1959,1.967 -16.18543,8.71432l0,0z" fill="#FFFFFF"/>
+    </g>
+   </g>
+   <g transform="rotate(180 617.155 513.908)" stroke="null" id="svg_8"/>
+  </g>
+  <g transform="rotate(-90 71.4928 64.8227)" stroke="null">
+   <g stroke="null" id="svg_21"/>
+   <g stroke="null" id="svg_20"/>
+   <g stroke="null" id="svg_16">
+    <g stroke="null" id="svg_18">
+     <path stroke="null" d="m71.93976,19.33575c-24.3868,-0.25603 -44.355,19.89975 -44.60413,45.02406c-0.24676,25.12064 19.32223,45.6944 43.70903,45.94982c24.38798,0.25664 44.35915,-19.90403 44.60532,-45.0259c0.24973,-25.12248 -19.32282,-45.69501 -43.71021,-45.94798l0,0z" fill="url(#svg_19)"/>
+    </g>
+    <g stroke="null" id="svg_17">
+     <path stroke="null" d="m59.63129,34.48513c-1.87919,6.74854 1.91182,13.78977 8.46052,15.72255c6.55107,1.93706 13.38391,-1.96578 15.2637,-8.71554c1.87741,-6.7467 -1.91004,-13.78611 -8.46052,-15.72133c-6.55048,-1.93584 -13.38747,1.967 -15.2637,8.71432l0,0z" fill="#FFFFFF"/>
+    </g>
+   </g>
+   <g stroke="null" id="svg_15"/>
+  </g>
+  <g transform="rotate(123 606.137 447.844)" stroke="null">
+   <g stroke="null" id="svg_28"/>
+   <g stroke="null" id="svg_27"/>
+   <g stroke="null" id="svg_23">
+    <g stroke="null" id="svg_25">
+     <path stroke="null" d="m606.60065,402.357c-25.32783,-0.25603 -46.06657,19.89975 -46.32532,45.02406c-0.25628,25.12064 20.06784,45.6944 45.39567,45.94982c25.32907,0.25664 46.07088,-19.90403 46.32655,-45.0259c0.25937,-25.12248 -20.06845,-45.69501 -45.3969,-45.94798l0,0z" fill="url(#svg_26)"/>
+    </g>
+    <g stroke="null" id="svg_24">
+     <path stroke="null" d="m593.81721,417.50638c-1.95171,6.74854 1.98559,13.78977 8.78699,15.72255c6.80387,1.93706 13.90037,-1.96578 15.85269,-8.71554c1.94986,-6.7467 -1.98374,-13.78611 -8.78699,-15.72133c-6.80325,-1.93584 -13.90406,1.967 -15.85269,8.71432l0,0z" fill="#FFFFFF"/>
+    </g>
+   </g>
+   <g stroke="null" id="svg_22"/>
+  </g>
+  <g transform="rotate(90 181.248 160)" stroke="null">
+   <g stroke="null" id="svg_35"/>
+   <g stroke="null" id="svg_34"/>
+   <g stroke="null" id="svg_30">
+    <g stroke="null" id="svg_32">
+     <path stroke="null" d="m181.70809,114.5131c-25.12312,-0.25603 -45.69423,19.89975 -45.95089,45.02406c-0.25421,25.12064 19.90564,45.6944 45.02876,45.94982c25.12434,0.25664 45.69851,-19.90403 45.95211,-45.0259c0.25727,-25.12248 -19.90625,-45.69501 -45.02998,-45.94798l0,0z" fill="url(#svg_33)"/>
+    </g>
+    <g stroke="null" id="svg_31">
+     <path stroke="null" d="m169.02798,129.66248c-1.93593,6.74854 1.96954,13.78977 8.71597,15.72255c6.74887,1.93706 13.78802,-1.96578 15.72456,-8.71554c1.9341,-6.7467 -1.96771,-13.78611 -8.71597,-15.72133c-6.74826,-1.93584 -13.79168,1.967 -15.72456,8.71432l0,0z" fill="#FFFFFF"/>
+    </g>
+   </g>
+   <g stroke="null" id="svg_29"/>
+  </g>
+ </g>
+</svg>
